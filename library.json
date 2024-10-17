@@ -10,5 +10,5 @@
   },
   "frameworks": "*",
   "platforms": "*",
-  "headers": []
+  "headers": ["OmuniWheel.h"]
 }
